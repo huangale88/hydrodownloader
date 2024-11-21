@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application displays climate stations on interactive maps for Vancouver and Calgary using Dash and Dash Leaflet. Users can interact with the maps by drawing polygons to filter displayed climate stations based on their geographical area.
+This application displays climate stations on interactive maps for ECCC and allows the users to interactively explore the data and download the desired information. 
 
 ## Classes & Functions
 
